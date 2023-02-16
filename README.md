@@ -22,7 +22,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Portfolio] <a name="about-project">About</a>
+# 📖 [Portfolio Project] <a name="about-project">About</a>
 
  This carefully curated portfolio  showcases my extensive skill set, education, training, and experiences to provide you with a comprehensive understanding of my qualifications. With a mix of academic and professional achievements, my portfolio is the perfect way to gain insight into my personality and work ethic. From my education to my professional accomplishments, you will gain a deeper understanding of my strengths and areas of expertise.
 ## 🛠 Built With <a name="built-with">Visual Studio Code</a>
@@ -124,7 +124,7 @@ VS Code
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Detailed Document]().
+Feel free to check the [Detailed Document](https://github.com/harshi0102/Portfolio-Microverse-project/blob/html-cssbranch/README.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
