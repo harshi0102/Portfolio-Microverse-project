@@ -124,7 +124,7 @@ VS Code
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Detailed Document](https://github.com/harshi0102/Portfolio-Microverse-project/blob/html-cssbranch/README.md).
+Feel free to check the [Detailed Document](https://github.com/harshi0102/Portfolio-Microverse-project/blob/main/README.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
