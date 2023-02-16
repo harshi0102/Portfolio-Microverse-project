@@ -60,7 +60,7 @@ p {
 
 @media only screen and (min-width: 375px) {
   body {
-    background-image: url(background.png);
+    background-image: url(mobilebackground.jpg);
     background-repeat: no-repeat center;
     background-attachment: scroll;
     background-size: 100%;
@@ -96,16 +96,19 @@ p {
     width: 20%;
     top: 50%;
     left: 50%;
+    display:none;
   }
 
-  a {
-    color: white;
+  .mobilelogo {
+    color: black;
   }
 }
 
 @media only screen and (min-width: 768px) {
   body {
     background-color: transparent;
+    background-image: url(background.png);
+    background-size: cover;
   }
 
   h1 {

@@ -145,5 +145,6 @@ I would like to thank microverse team, github team and my coding partners who co
 ## 📝 License <a name="license"></a>
 
 This project is copyright of [HarshikaGovind]
+<a href="https://github.com/harshi0102/Portfolio-Microverse-project/blob/main/LICENSE">MIT License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
