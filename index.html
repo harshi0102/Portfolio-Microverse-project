@@ -12,18 +12,33 @@
 </head>
 <body>
     <header>
-
+<!---mobile menu-->
     <nav class="mobileinfo">
         <a class="mobilelogo"><h1>Welcome</h1></a>
           </div>
           
           <div class="mobilemenu">
-          <i class="fa-sharp fa-solid fa-bars"></i>  
+            
+          <a href="#hamburger-icon" onclick="menuFunction()" class="hamburger"><i class="fa-sharp fa-solid fa-bars"></i> </a>
            </div>
+           
+        
           </nav>
           
-          
-        <nav class="desktop-nav">
+          <!---Mobile menu-hamburger-->
+          <div id="mobile-menu-container">
+            <span class="closehamburger-icon" onclick="menufunction()">
+            <img src="image/close-icon.svg" alt="closehamburgericon">
+            </span>
+            <ul id="mymobilelinks">
+                <li><a href="javascript:void(0);" onclick="menuOptions('#my recent work')">Portfolio</a></li>
+                <li><a href="javascript:void(0);"onclick="menuOptions('#about')">About</a></li>
+                <li><a href="javascript:void(0);"onclick="menuOptions('#Contact')">Contact</a></li>
+            </ul>
+          </div>
+        
+        <!--desktop navigation-->
+          <nav class="desktop-nav">
             <ul class="desktop-navmenu">
                 <li><a href ="#Portfolio">Portfolio</a></li>
                 <li><a href="#About">About</a></li>
@@ -51,9 +66,9 @@
         
     </div>
     </section>
+    <!--Recent work-->
     
-   
+    <script src="script.js">
 
-    
 </body>
 </html>

@@ -27,9 +27,7 @@ a:hover {
   flex-direction: row;
   justify-content: center;
   height: 50%;
-  background-image: url(background.png);
-  background-repeat: no-repeat;
-  background-position: top;
+
 }
 
 .main {
@@ -45,6 +43,9 @@ h1 {
   line-height: 100%;
   text-align: center;
   letter-spacing: 0.37px;
+}
+i{
+  display:none;
 }
 
 .heading {
@@ -82,11 +83,17 @@ p {
 
 @media only screen and (min-width: 375px) {
   body {
-    background-image: url(mobilebackground.jpg);
+    background-image: url(image/mobilebackground.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    background-position: right;
+    background-position: bottom;
+  }
+  .hamburger{
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+    font-size:30px;
   }
 
   .mobilemenu > i {
@@ -109,6 +116,10 @@ p {
     justify-content: left;
     flex-basis: 50%;
   }
+  .mobilelogo>h1{
+    display:flex;
+    text-align:left;
+  }
 
   h1 {
     font-size: 30px;
@@ -121,11 +132,20 @@ p {
   .mobilelogo {
     color: black;
   }
+   ul li{
+    padding:10px;
+  }
+
+  
+  
 }
 
 @media only screen and (min-width: 768px) {
   body {
     background-color: transparent;
+    background-image: url(image/background.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
   }
 
   h1 {
@@ -146,8 +166,53 @@ p {
   a {
     color: black;
   }
-
+ 
+.mobile-menu{
+  display:none;
+}
   .mobileinfo {
     display: none;
   }
+  #mobile-menu-container{
+    display:none !important;
+  }
+  .mobilelogo{
+    display:none;
+  }
+  .hamburger{
+    display:none;
+  }
 }
+
+
+.closehamburger-icon{
+  display:flex;
+  justify-content:flex-end;
+  margin-right: 5%;
+  margin-top: 2%;
+}
+
+
+#mobile-menu-container ul li a {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.mobileinfo{
+  display: flex;
+  justify-content: flex-start; /* Align items to the right */
+  
+}
+
+
+#mymobilelinks{
+  display: flex;
+  flex-direction: column; /* Stack menu items vertically */
+  align-items: center; /* Center menu items horizontally */
+  justify-content: center; /* Center menu items vertically */
+
+}
+
+
