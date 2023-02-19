@@ -4,9 +4,8 @@ a {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
-
-ul li {
-  display: inline-block;
+.desktop-navmenu {
+  display:flex;
   align-items: center;
   justify-content: center;
   padding: 30px;
@@ -70,6 +69,7 @@ p {
   justify-content: center;
   flex-direction: row;
   margin-left: -52px;
+  list-style-type: none;
 }
 
 .fa-brands {
@@ -82,7 +82,7 @@ p {
 }
 
 @media only screen and (min-width: 375px) {
-  body {
+  .container {
     background-image: url(image/mobilebackground.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -143,9 +143,8 @@ p {
 @media only screen and (min-width: 768px) {
   body {
     background-color: transparent;
-    background-image: url(image/background.png);
-    background-repeat: no-repeat;
-    background-position: bottom;
+    
+    
   }
 
   h1 {
@@ -216,3 +215,44 @@ p {
 }
 
 
+
+
+.card-container{
+  display:flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content:start;
+  margin-left:-53px;
+}
+.card1{
+  flex:33.33%;
+
+}
+.card2{
+  flex:33.33%;
+
+}
+.card3{
+  flex:33.33%;
+}
+.card4{
+  flex:33.33%;
+
+}
+.card5{
+  flex:33.33%;
+}
+.card6{
+  flex:33.33%;
+}
+.imagebox{
+  width:500px;
+  height:500px;
+}
+.title{
+  text-align:center;
+}
+
+.languagedetail ul li{
+  display:inline;
+}
