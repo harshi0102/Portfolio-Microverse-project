@@ -220,39 +220,128 @@ p {
 .card-container{
   display:flex;
   flex-direction:row;
-  align-items: center;
-  justify-content:start;
-  margin-left:-53px;
+margin-left:1%;
+
 }
 .card1{
   flex:33.33%;
+  border-style:solid;
+  border-color:black;
+  border-width:1px;
+  margin-right:2%; 
 
 }
 .card2{
   flex:33.33%;
+  border-style:solid;
+  border-color:black;
+  border-width:1px;
+  margin-right:2%; 
 
 }
 .card3{
   flex:33.33%;
+  border-style:solid;
+  border-color:black;
+  border-width:1px;
+  margin-right:2%; 
 }
 .card4{
   flex:33.33%;
+  border-style:solid;
+  border-color:black;
+  border-width:1px;
+  margin-right:2%; 
 
 }
 .card5{
   flex:33.33%;
+  border-style:solid;
+  border-color:black;
+  border-width:1px;
+  margin-right:2%; 
 }
 .card6{
   flex:33.33%;
+  border-style:solid;
+  border-color:black;
+  border-width:1px;
+  margin-right:2%; 
 }
 .imagebox{
-  width:500px;
-  height:500px;
+  width:436px;
+  height:340px;
+  background-color: #ebf0ee;
 }
-.title{
+.imagebox>img{
+  border:1px solid #ebf0ee;
+  justify-content: center;
+}
+.title .head ul li {
   text-align:center;
+  border-right: 8px;
+  border-left:8px;
+  border-color:black;
+  border:1px solid black;
+  
+
+}
+.head{
+  color:#3a4a42;
+  font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 44px;
+    padding-top: 15px;
+    margin-top:-20px;
+ text-align:center;
 }
 
-.languagedetail ul li{
-  display:inline;
+.languageinfo{
+  display:grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap:5px;
+  margin-top: -22px;
+    margin-bottom: 5px;
+    margin-right: 38px;
+
+}
+.languageinfo>li {
+  background-color: #ebf0ee;
+    border: none;
+    padding: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: Inter, sans-serif;
+    list-style-type: none;
+}
+.languageinfo ul li{
+  list-style-type: none;
+}
+#see-project{
+  background-color: #36b37f;
+  border-radius:5px;
+  border:none;
+  color:white;
+  font-size:18px;
+  margin-top:15px;
+  width:120px;
+  height:40px;
+margin-left:35%;  
+cursor: pointer;
+}
+#see-project button{
+text-align: center;
+cursor: pointer;
+}
+
+#see-project>button:hover{
+  width:300px;
+  background-color:#36b37f;
+  box-shadow:0 1px 1px 0 #a1e9cb, 0 6px 20px 0 #a1e9cb;
 }
