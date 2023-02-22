@@ -55,7 +55,7 @@ The core concepts of HTML, CSS and github were implemented.Using HTML, I was abl
 
 ## 🚀 Live Demo
 
-- [Live Demo Link](https://portfolioprojectmicroverse.netlify.app/)
+- [Live Demo Link](https://github.com/harshi0102/Portfolio-Microverse-project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
