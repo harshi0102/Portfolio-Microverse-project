@@ -2,6 +2,7 @@
   background-image: url(image/mobilebackground.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  margin-left: -205px;
 }
 
 .inside-auto {
@@ -176,6 +177,7 @@ ul {
   cursor: pointer;
   top: 8px;
   color: #3a4a42;
+  text-decoration: none;
 }
 
 .seeproject > button {
@@ -220,13 +222,6 @@ i {
 
 .titlerecent {
   margin-top: 127px;
-}
-
-.downarrow {
-  position: absolute;
-  left: 41%;
-  right: 25%;
-  top: 71.5%;
 }
 
 .mobilemenu {
@@ -607,29 +602,20 @@ textarea {
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
-  text-align: center;
+  text-align: left;
   color: #42526e;
-}
-
-.lastcontentemail {
-  margin-top: 10px;
 }
 
 @media only screen and (min-width: 768px) {
   .infocontainer {
     position: relative;
-    left: 25%;
+    left: 203px;
   }
 
   .social-media-icons {
-    margin-left: 12px;
+    margin-left: -6px;
     position: absolute;
     left: 42px;
-  }
-
-  .downarrow {
-    margin-left: 41px;
-    margin-top: -191px;
   }
 
   .headwork {
@@ -679,6 +665,7 @@ textarea {
   .lastcontentemail {
     position: relative;
     top: 14px;
+    left: 25px;
   }
 
   .mobilemenu {
@@ -744,7 +731,9 @@ textarea {
   }
 
   .downarrow {
-    margin-top: -31px;
+    margin-top: 53px;
+    position: absolute;
+    left: -82px;
   }
 
   .infocontainer {
@@ -788,5 +777,19 @@ textarea {
 
   .lastcontentemail {
     margin-top: -69px;
+    margin-left: 72px;
   }
+}
+
+.downarrow {
+  margin-left: 248px;
+}
+
+.lastcontentemail {
+  left: -444px;
+}
+
+.social-media-icons .social-icons .icon > a {
+  color: black;
+  text-decoration: none;
 }
