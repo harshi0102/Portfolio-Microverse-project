@@ -83,8 +83,7 @@ Clone this repository to your desired folder:
 
 To run the project, execute the following file:
 
-index.html
-
+index.html and open the file in mobile view.
 ### Run tests
 
 To run tests, run the following command:
