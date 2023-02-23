@@ -3,7 +3,6 @@
   background-size: 100%;
   background-repeat: no-repeat;
   margin-left: -205px;
-  background-size:100%;
 }
 
 .inside-auto {
@@ -12,9 +11,11 @@
   flex-grow: 0;
 }
 
-.mobilemenu .hamburger>i{
-font-size:15px;
+.mobilemenu .hamburger > i {
+  font-size: 15px;
+  color: black;
 }
+
 .navbar-container {
   align-items: center;
   text-align: center;
@@ -106,7 +107,7 @@ font-size:15px;
   color: #28352f;
   text-decoration: none;
   margin-top: 10px;
-  margin-left:15px;
+  margin-left: 15px;
 }
 
 .headwork > h1 {
@@ -220,10 +221,6 @@ ul {
   margin-top: -32px;
 }
 
-i {
-  color: black;
-}
-
 .titlerecent {
   margin-top: 127px;
 }
@@ -286,7 +283,7 @@ i {
   background-image: url(image/about\ background1.png);
   background-size: 40%;
   background-repeat: no-repeat;
-  background-position:117% -18%;
+  background-position: 117% -18%;
 }
 
 .aboutmeinsideauto {
@@ -578,7 +575,7 @@ textarea {
   gap: 10px;
   width: 129px;
   height: 48px;
-  margin-left:61px;
+  margin-left: 61px;
 }
 
 .getintouch .getin {
@@ -613,7 +610,7 @@ textarea {
   .infocontainer {
     position: relative;
     left: 203px;
-    background-size:50%;
+    background-size: 50%;
   }
 
   .social-media-icons {
@@ -626,38 +623,39 @@ textarea {
     position: relative;
     left: 192px;
   }
-  .downarrow{
-    margin-left:433px;
+
+  .downarrow {
+    margin-left: 433px;
   }
 
   .recentimagecontainer {
-position:relative;
-left:200px;
+    position: relative;
+    left: 200px;
   }
 
   .aboutmecontainer {
     margin-left: 212px;
   }
 
-
   .skillscontainer {
     left: 208px;
     position: relative;
   }
-  .resume{
-    position:relative;
-    left:-34px;
+
+  .resume {
+    position: relative;
+    left: -34px;
   }
 
   .contact-container {
-position:relative;
-left:219px;
+    position: relative;
+    left: 219px;
   }
-  .form{
-    position:relative;
-    left:27px;
+
+  .form {
+    position: relative;
+    left: 27px;
   }
-  
 
   textarea {
     width: 742px;
@@ -691,21 +689,17 @@ left:219px;
   .mobilemenu {
     margin-left: 414px;
   }
-  
- 
-
 }
 
 .storiescontainer {
   border: 1px solid #d0d9d4;
   border-radius: 8px;
   width: 327px;
-  position:relative;
-  z-index:-1;
-  top:-10px;
-  border-top-color:#d0d9d4;
-  border-top-width:1px;
-
+  position: relative;
+  z-index: -1;
+  top: -10px;
+  border-top-color: #d0d9d4;
+  border-top-width: 1px;
 }
 
 .storiescontainer1 {
@@ -737,23 +731,26 @@ left:219px;
     width: 298px;
     height: 90px;
   }
-  .skillscontainer{
+
+  .skillscontainer {
     margin-left: 13px;
   }
+
   .mobilemenu {
     position: absolute;
     left: 312px;
-    top:44px;
+    top: 44px;
   }
-  .mobile-logo>a{
-    position:absolute;
+
+  .mobile-logo > a {
+    position: absolute;
     left: 23px;
-    top:-1px;
+    top: -1px;
   }
 
   .language {
     margin-top: 20px;
-    margin-left:-6px;
+    margin-left: -6px;
   }
 
   .framework {
@@ -767,31 +764,36 @@ left:219px;
   form {
     margin-left: 22px;
   }
-  .recentimagecontainer{
-    margin-left:-9px;
+
+  .recentimagecontainer {
+    margin-left: -9px;
   }
- 
+
   .downarrow {
     margin-top: 53px;
     position: absolute;
     left: -69px;
   }
-  .aboutmepara{
-    margin-left:-5px;
+
+  .aboutmepara {
+    margin-left: -5px;
   }
-  .titleaboutme{
-    margin-left:-4px;
+
+  .titleaboutme {
+    margin-left: -4px;
   }
 
   .infocontainer {
     margin-left: 17px;
-    margin-top:65px;
+    margin-top: 65px;
   }
-.languagelinks ul .jsinfo{
-  margin-left:-23px;
-}
+
+  .languagelinks ul .jsinfo {
+    margin-left: -23px;
+  }
+
   .headwork {
-    margin-left:29px;
+    margin-left: 29px;
   }
 
   .language > ul {
@@ -820,7 +822,7 @@ left:219px;
   input[type=email] {
     width: 297px;
   }
-  
+
   .social-media-icons1 {
     margin-left: 63px;
   }
@@ -829,25 +831,29 @@ left:219px;
     margin-top: -69px;
     margin-left: 72px;
   }
-  .mobile-logo{
-    margin-left:10px;
-  }
-  .languagelinks{
-    margin-left:-6px;
-  }
-  .resume{
-position:relative;
-left:-44px;  
-}
-.contact-container{
-  margin-left:-18px;
-}
-.getintouch{
-  position:relative;
-  left:30px;
-}
-}
 
+  .mobile-logo {
+    margin-left: 10px;
+  }
+
+  .languagelinks {
+    margin-left: -6px;
+  }
+
+  .resume {
+    position: relative;
+    left: -44px;
+  }
+
+  .contact-container {
+    margin-left: -18px;
+  }
+
+  .getintouch {
+    position: relative;
+    left: 30px;
+  }
+}
 
 .lastcontentemail {
   left: -444px;
