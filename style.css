@@ -5,6 +5,56 @@
   margin-left: -205px;
 }
 
+.js {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 5px;
+  grid-gap: 33px;
+  margin-left: 75px;
+  margin-right: 8px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.js > li {
+  background-color: #fff;
+  border: none;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Inter, sans-serif;
+  list-style-type: none;
+  color: #36b37f;
+}
+
+.scriptlanguagelinks .scriptlanguage {
+  padding: 3px;
+}
+
+.buttons2 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 5px;
+  grid-gap: 20px;
+  margin-left: 62px;
+  margin-right: 8px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.scriptlanguagelinks .scriptlanguage > a {
+  padding: 8px;
+}
+
+.scriptlanguagelinks {
+  padding: 10px;
+  gap: 8px;
+}
+
 .inside-auto {
   flex: none;
   order: 0;
@@ -21,19 +71,6 @@
   text-align: center;
   justify-content: center;
   display: none;
-}
-
-.navbar-container > a {
-  width: 63px;
-  height: 20px;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 15px;
-  line-height: 20px;
-  text-decoration: none;
-  color: #344563;
-  padding: 14px;
 }
 
 .head > h1 {
@@ -93,7 +130,7 @@
   padding: 8px;
 }
 
-.mobile-logo > a {
+.mobile-logo .welcome {
   width: 90px;
   height: 28px;
   font-family: 'Inter', sans-serif;
@@ -169,7 +206,7 @@ ul {
   list-style-type: none;
 }
 
-.language ul li a {
+.language .scriptlanguagelinks .scriptlanguage > a {
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -366,57 +403,16 @@ ul {
   color: #344563;
 }
 
-.languagelinks ul li {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 12px;
-  width: 89px;
-  height: 40px;
-  border-radius: 8px;
-  margin-left: -4px;
-}
-
-.languagelinks ul li a {
-  text-decoration: none;
-  cursor: pointer;
-  color: #36b37e;
-  width: 65px;
-  height: 16px;
-  background: #fff;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 12px;
-  line-height: 16px;
-  text-align: center;
-  border-radius: 30px;
-  letter-spacing: 0.03em;
-}
-
 .language {
   margin-left: 9px;
 }
 
 .framework {
-  margin-left: -7px;
+  margin-left: -11px;
 }
 
 .skills {
-  margin-left: -5px;
-}
-
-.languagelinks .rails a {
-  width: 107px;
-  height: 16px;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 12px;
-  line-height: 16px;
-  letter-spacing: 0.03em;
-  margin-left: -21px;
-  color: #36b37e;
+  margin-left: -12px;
 }
 
 .buttoninfo4 {
@@ -424,29 +420,45 @@ ul {
   grid-template-columns: auto auto;
   justify-content: center;
   padding: 1px;
-  grid-gap: 5px;
-  margin-top: -48px;
-  margin-left: 8px;
+  grid-gap: 18px;
+  margin-top: 3px;
+  margin-left: 52px;
   margin-right: 8px;
 }
 
-.buttoninfo4 .linkicon2 {
-  margin-left: -33px;
+.button-white-bg > li {
+  background-color: white;
+  color: #36b37f;
 }
 
-.buttoninfo4 .linkicon1 {
-  margin-left: 21px;
+.buttoninfo4 > li,
+.buttons2 > li {
+  border: none;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Inter, sans-serif;
+  list-style-type: none;
+}
+
+.buttoninfo5 .Termenal {
+  margin-top: -34px;
+  margin-left: 38px;
 }
 
 .buttoninfo3 {
   display: grid;
   grid-template-columns: auto auto auto auto;
   padding: 5px;
-  grid-gap: 5px;
+  grid-gap: 20px;
   margin-top: 10px;
   margin-bottom: 5px;
-  margin-left: 8px;
-  margin-right: 8px;
+  margin-left: 66px;
+  margin-right: 28px;
 }
 
 .buttoninfo5 {
@@ -455,22 +467,9 @@ ul {
   justify-content: center;
   padding: 5px;
   grid-gap: 5px;
-  margin-top: 0;
-  margin-left: 8px;
+  margin-top: 30px;
+  margin-left: 18px;
   margin-right: 8px;
-}
-
-.buttoninfo .codekit > a {
-  width: 48px;
-  height: 16px;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 12px;
-  line-height: 16px;
-  letter-spacing: 0.03em;
-  color: #36b37e;
-  text-decoration: none;
 }
 
 .contactpara {
@@ -493,12 +492,47 @@ ul {
   flex-grow: 0;
 }
 
+.buttoninfo3 > li {
+  background-color: white;
+  border: none;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  list-style-type: none;
+}
+
+.buttoninfo5 > li {
+  border: none;
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Inter, sans-serif;
+  list-style-type: none;
+}
+
+.languagelinks .buttoninfo3 .codekit {
+  margin-left: 0;
+}
+
 .fullname {
   box-sizing: border-box;
   background: #fff;
   width: 327px;
   height: 48px;
   margin-bottom: 10px;
+}
+
+.language ul li {
+  padding: 10px;
 }
 
 input[type=text] {
@@ -625,7 +659,7 @@ textarea {
   }
 
   .downarrow {
-    margin-left: 433px;
+    margin-left: 205px;
   }
 
   .recentimagecontainer {
@@ -649,12 +683,7 @@ textarea {
 
   .contact-container {
     position: relative;
-    left: 219px;
-  }
-
-  .form {
-    position: relative;
-    left: 27px;
+    left: 206px;
   }
 
   textarea {
@@ -677,13 +706,13 @@ textarea {
 
   .social-media-icons1 {
     position: relative;
-    left: 208px;
+    left: 175px;
   }
 
   .lastcontentemail {
     position: relative;
     top: 14px;
-    left: 25px;
+    left: 182px;
   }
 
   .mobilemenu {
@@ -733,7 +762,7 @@ textarea {
   }
 
   .skillscontainer {
-    margin-left: 13px;
+    margin-left: 2px;
   }
 
   .mobilemenu {
@@ -754,15 +783,15 @@ textarea {
   }
 
   .framework {
-    margin-top: 49px;
+    margin-top: 84px;
   }
 
   .skills {
-    margin-top: 54px;
+    margin-top: 49px;
   }
 
   form {
-    margin-left: 22px;
+    margin-left: 15px;
   }
 
   .recentimagecontainer {
@@ -772,11 +801,11 @@ textarea {
   .downarrow {
     margin-top: 53px;
     position: absolute;
-    left: -69px;
+    left: 164px;
   }
 
   .aboutmepara {
-    margin-left: -5px;
+    margin-left: -8px;
   }
 
   .titleaboutme {
@@ -797,11 +826,12 @@ textarea {
   }
 
   .language > ul {
-    margin-left: 16px;
+    margin-left: 27px;
   }
 
   .language ul li {
     padding: 5px;
+    margin-left: -10px;
   }
 
   .fullname {
@@ -824,12 +854,12 @@ textarea {
   }
 
   .social-media-icons1 {
-    margin-left: 63px;
+    margin-left: 50px;
   }
 
   .lastcontentemail {
     margin-top: -69px;
-    margin-left: 72px;
+    margin-left: 52px;
   }
 
   .mobile-logo {
@@ -837,26 +867,26 @@ textarea {
   }
 
   .languagelinks {
-    margin-left: -6px;
+    margin-left: -46px;
   }
 
   .resume {
     position: relative;
-    left: -44px;
+    left: -52px;
   }
 
   .contact-container {
-    margin-left: -18px;
+    margin-left: -23px;
   }
 
   .getintouch {
     position: relative;
     left: 30px;
   }
-}
 
-.lastcontentemail {
-  left: -444px;
+  .languagelinks ul li {
+    padding: 10px;
+  }
 }
 
 .social-media-icons .social-icons .icon > a {
