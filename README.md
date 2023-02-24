@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1><b>Harshika Govind</b></h1>
-  <h3><b>Portfolio</b></h3>
+  <h3><b>Portfolio Project Mobile Version</b></h3>
 
 </div>
 
@@ -39,7 +39,7 @@ The core concepts of HTML, CSS and github were implemented.Using HTML, I was abl
 </details>
 
 <details>
-  <summary>Styless- CSS</summary>
+  <summary>Styles- CSS</summary>
   <ul>
     <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
   </ul>
@@ -55,7 +55,7 @@ The core concepts of HTML, CSS and github were implemented.Using HTML, I was abl
 
 ## 🚀 Live Demo
 
-- [Live Demo Link](https://portfolioprojectmicroverse.netlify.app/)
+- [Live Demo Link](https://github.com/harshi0102/Portfolio-Microverse-project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,8 +83,7 @@ Clone this repository to your desired folder:
 
 To run the project, execute the following file:
 
-index.html
-
+index.html and open the file in mobile view.
 ### Run tests
 
 To run tests, run the following command:
