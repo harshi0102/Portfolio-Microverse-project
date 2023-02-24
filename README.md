@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1><b>Harshika Govind</b></h1>
-  <h3><b>Portfolio</b></h3>
+  <h3><b>Portfolio Project Mobile Version</b></h3>
 
 </div>
 
@@ -39,7 +39,7 @@ The core concepts of HTML, CSS and github were implemented.Using HTML, I was abl
 </details>
 
 <details>
-  <summary>Styless- CSS</summary>
+  <summary>Styles- CSS</summary>
   <ul>
     <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
   </ul>
