@@ -122,12 +122,12 @@
 .social-media-icons .social-icons {
   display: flex;
   position: absolute;
-  left: 19%;
+  left: 7%;
   list-style-type: none;
 }
 
 .social-icons > li {
-  padding: 8px;
+  padding: 3px;
 }
 
 .mobile-logo .welcome {
@@ -352,7 +352,7 @@ ul {
 }
 
 .resume > button {
-  width: 200px;
+  width: 165px;
   height: 41px;
   border-width: 0;
   outline: none;
@@ -368,6 +368,7 @@ ul {
   background: #36b37e;
   justify-content: center;
   color: #fff;
+  border-radius: 4px;
 }
 
 .imgpatholder5 {
@@ -731,6 +732,17 @@ textarea {
   border-top-width: 1px;
 }
 
+.lastcontentemail .lastemail {
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: #42526e;
+}
+
 .storiescontainer1 {
   margin-left: 19px;
 }
@@ -854,12 +866,12 @@ textarea {
   }
 
   .social-media-icons1 {
-    margin-left: 50px;
+    margin-left: 6px;
   }
 
   .lastcontentemail {
-    margin-top: -69px;
-    margin-left: 52px;
+    margin-top: -50px;
+    margin-left: 5px;
   }
 
   .mobile-logo {
@@ -872,7 +884,7 @@ textarea {
 
   .resume {
     position: relative;
-    left: -52px;
+    left: -35px;
   }
 
   .contact-container {
@@ -897,4 +909,30 @@ textarea {
 .social-media-icons1 .social-icons .icon > a {
   color: black;
   text-decoration: none;
+}
+
+footer {
+  display: grid;
+  justify-content: center;
+  background-image: url(image/footer-image.svg);
+  background-position: 100% 88%;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.footer-contactform {
+  height: 183px;
+}
+
+.social-media-icons1 > ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.icon {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-left: 10px;
 }
