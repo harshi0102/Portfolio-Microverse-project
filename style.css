@@ -122,7 +122,7 @@
 .social-media-icons .social-icons {
   display: flex;
   position: absolute;
-  left: 7%;
+  left: 10%;
   list-style-type: none;
 }
 
@@ -813,7 +813,7 @@ textarea {
   .downarrow {
     margin-top: 63px;
     position: absolute;
-    left: 164px;
+    left: 173px;
   }
 
   .aboutmepara {
