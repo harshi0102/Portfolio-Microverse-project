@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1><b>Harshika Govind</b></h1>
-  <h3><b>Portfolio Project Mobile Version</b></h3>
+  <h3><b>Portfolio Project Mobile Version Contact Form Validation</b></h3>
 
 </div>
 
@@ -25,6 +25,9 @@
 # 📖 [Portfolio Project] <a name="about-project">About</a>
 
  This carefully curated portfolio  showcases my extensive skill set, education, training, and experiences to provide you with a comprehensive understanding of my qualifications. With a mix of academic and professional achievements, my portfolio is the perfect way to gain insight into my personality and work ethic. From my education to my professional accomplishments, you will gain a deeper understanding of my strengths and areas of expertise.
+ 
+ It includes contact form validation  which collected data  using the Formspree service.
+ 
 ## 🛠 Built With <a name="built-with">Visual Studio Code</a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -62,6 +65,8 @@ The core concepts of HTML, CSS and github were implemented.Using HTML, I was abl
 ## 💻 Getting Started <a name="getting-started"></a>
 
 If you are interested in exploring the contents of this project, be sure to open the "Index.html" file, which is the very first file in the repository. This file serves as the gateway to the rest of the data in the project, providing links and navigation tools that allow you to easily explore and discover the contents of the project. By opening the "Index.html" file, you will be able to access all of the other files and data within the project, including images, text documents, and other multimedia content.
+
+It includes contact form validation  which collected data  using the Formspree service.
 
 To get a local copy up and running, follow these steps.
 
@@ -109,6 +114,12 @@ VS Code
 - GitHub: [@harshi0102](https://github.com/harshi0102/)
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind)
+
+👤 Muhammad Omer Afzal
+
+- GitHub: [@omer-creator](https://github.com/omer-creator/)
+- Twitter: [@MicronautOmer](https://twitter.com/micronautomer)
+- LinkedIn: [OmerAfzal](https://www.linkedin.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

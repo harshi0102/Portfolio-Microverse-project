@@ -122,12 +122,12 @@
 .social-media-icons .social-icons {
   display: flex;
   position: absolute;
-  left: 19%;
+  left: 10%;
   list-style-type: none;
 }
 
 .social-icons > li {
-  padding: 8px;
+  padding: 3px;
 }
 
 .mobile-logo .welcome {
@@ -255,7 +255,7 @@ ul {
 }
 
 .social-media-icons {
-  margin-top: -32px;
+  margin-top: -19px;
 }
 
 .titlerecent {
@@ -352,7 +352,7 @@ ul {
 }
 
 .resume > button {
-  width: 200px;
+  width: 165px;
   height: 41px;
   border-width: 0;
   outline: none;
@@ -368,6 +368,7 @@ ul {
   background: #36b37e;
   justify-content: center;
   color: #fff;
+  border-radius: 4px;
 }
 
 .imgpatholder5 {
@@ -613,7 +614,7 @@ textarea {
 }
 
 .getintouch .getin {
-  width: 141px;
+  width: 125px;
   height: 50px;
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -628,6 +629,18 @@ textarea {
   background: #36b37f;
   border-radius: 4px;
   color: #fff;
+  cursor: pointer;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.getintouch .getin:visited {
+  background-color: #248452;
+}
+
+.getintouch .getin:hover {
+  background-color: #60c095;
 }
 
 .lastcontentemail > h5 {
@@ -731,6 +744,17 @@ textarea {
   border-top-width: 1px;
 }
 
+.lastcontentemail .lastemail {
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: #42526e;
+}
+
 .storiescontainer1 {
   margin-left: 19px;
 }
@@ -799,9 +823,9 @@ textarea {
   }
 
   .downarrow {
-    margin-top: 53px;
+    margin-top: 63px;
     position: absolute;
-    left: 164px;
+    left: 173px;
   }
 
   .aboutmepara {
@@ -854,12 +878,12 @@ textarea {
   }
 
   .social-media-icons1 {
-    margin-left: 50px;
+    margin-left: 6px;
   }
 
   .lastcontentemail {
-    margin-top: -69px;
-    margin-left: 52px;
+    margin-top: -50px;
+    margin-left: 5px;
   }
 
   .mobile-logo {
@@ -872,7 +896,7 @@ textarea {
 
   .resume {
     position: relative;
-    left: -52px;
+    left: -35px;
   }
 
   .contact-container {
@@ -881,12 +905,16 @@ textarea {
 
   .getintouch {
     position: relative;
-    left: 30px;
+    left: 19px;
   }
 
   .languagelinks ul li {
     padding: 10px;
   }
+}
+
+.footer-contactform {
+  height: 183px;
 }
 
 .social-media-icons .social-icons .icon > a {
@@ -897,4 +925,26 @@ textarea {
 .social-media-icons1 .social-icons .icon > a {
   color: black;
   text-decoration: none;
+}
+
+.icon {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+footer {
+  display: grid;
+  justify-content: center;
+  background-image: url(image/footer-image.svg);
+  background-position: 100% 88%;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.social-media-icons1 > ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
 }
