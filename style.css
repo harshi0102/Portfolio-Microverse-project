@@ -911,6 +911,12 @@ textarea {
   text-decoration: none;
 }
 
+.icon {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 footer {
   display: grid;
   justify-content: center;
@@ -929,10 +935,4 @@ footer {
   align-items: center;
   justify-content: center;
   padding: 0;
-}
-
-.icon {
-  list-style-type: none;
-  margin-right: 10px;
-  margin-left: 10px;
 }
