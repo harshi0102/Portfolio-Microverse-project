@@ -614,7 +614,7 @@ textarea {
 }
 
 .getintouch .getin {
-  width: 141px;
+  width: 125px;
   height: 50px;
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -629,6 +629,18 @@ textarea {
   background: #36b37f;
   border-radius: 4px;
   color: #fff;
+  cursor: pointer;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.getintouch .getin:visited {
+  background-color: #248452;
+}
+
+.getintouch .getin:hover {
+  background-color: #60c095;
 }
 
 .lastcontentemail > h5 {
@@ -893,7 +905,7 @@ textarea {
 
   .getintouch {
     position: relative;
-    left: 30px;
+    left: 19px;
   }
 
   .languagelinks ul li {
