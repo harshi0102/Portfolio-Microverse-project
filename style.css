@@ -16,6 +16,9 @@
   margin-top: 0;
 }
 
+#titlename{
+  display:flex;
+}
 .js > li {
   background-color: #fff;
   border: none;
