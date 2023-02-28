@@ -1,0 +1,85 @@
+.desktop-nav .navbar .icons>a{
+    
+width: 63px;
+height: 20px;
+font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 20px;
+color: #344563;
+flex: none;
+order: 0;
+flex-grow: 0;
+text-decoration: none;
+
+}
+.desktop-nav .navbar .icons{
+    list-style-type: none;
+    padding:33px;
+}
+.desktop-nav .navbar{
+    display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+}
+
+.title-container{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 160px 0px;
+gap: 24px;
+
+
+}
+
+.nametitle{
+ width: 920px;
+height: 41px;
+font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.37px;
+color: #172B4D;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.profession{
+font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.37px;
+color:#36B37E;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.para .paragraph{
+width: 768px;
+height: 96px;
+font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+text-align: center;
+color: #172B4D;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-top:-47px;
+}
+
+.container header{
+
+}
