@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1><b>Harshika Govind</b></h1>
-  <h3><b>Portfolio Project Mobile Version</b></h3>
+  <h3><b>Portfolio Project Desktop Version</b></h3>
 
 </div>
 
@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 To run the project, execute the following file:
 
-index.html and open the file in mobile view.
+index.html and open the file in desktop view.
 ### Run tests
 
 To run tests, run the following command:
