@@ -52,12 +52,12 @@ body {
 
 .home-page header {
   background-image:
-    url("../images/frame1.svg"),
-    url("../images/frame2.svg"),
-    url("../images/frame3.svg"),
-    url("../images/frame4.svg"),
-    url("../images/frame5.svg"),
-    url("../images/back.svg");
+    url("../image/frame1.svg"),
+    url("../image/frame2.svg"),
+    url("../image/frame3.svg"),
+    url("../image/frame4.svg"),
+    url("../image/frame5.svg"),
+    url("../image/back.svg");
   background-position:
     100% 12%,
     100% 48%,
