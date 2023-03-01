@@ -105,7 +105,8 @@ a {
   text-decoration: none;
   font-family: Inter, sans-serif;
   font-size: large;
-  color: #42526e;
+  color: #28352f;
+  font-weight: 600;
 }
 
 p {
@@ -142,21 +143,6 @@ p {
   list-style-type: none;
   margin-right: 10px;
   margin-left: 10px;
-}
-
-.nav__header .logo {
-  text-decoration: none;
-  font-family: Inter, sans-serif;
-  font-weight: bold;
-  font-size: 30px;
-  color: #6070ff;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  margin-left: 24px;
-  margin-top: 20px;
-  width: 25%;
-  margin-right: 60%;
 }
 
 #scroller-icon {
@@ -502,6 +488,10 @@ footer {
     display: none !important;
   }
 
+  .mobilewelcome {
+    display: none !important;
+  }
+
   .nav__header {
     margin-top: 0;
     margin-right: 10.69%;
@@ -708,4 +698,57 @@ footer {
   .submit-button-container {
     text-align: left;
   }
+
+  header .nav_header .mobilewelcome .welcome {
+    visibility: hidden;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .hamburger {
+    margin-left: 60%;
+  }
+
+  header .nav_header .mobilewelcome .welcome {
+    width: 90px;
+    height: 28px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #28352f;
+    flex: none;
+    order: 0;
+    margin-top: 10px;
+    flex-grow: 0;
+    text-decoration: none;
+  }
+
+  header .nav__header .mobilewelcome {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  #banner {
+    background-image: url(image/Frame.png);
+    background-repeat: no-repeat;
+    background-position-x: 300px;
+    background-position-y: 3px;
+    margin-top: 10px;
+  }
+
+  .contact {
+    background-image: url(image/mframe2.png);
+    background-repeat: no-repeat;
+    background-position: -6%;
+    background-size: 12%;
+  }
+}
+
+header .nav_header .mobilewelcome .welcome {
+  display: none;
 }
