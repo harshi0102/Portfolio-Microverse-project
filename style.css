@@ -52,12 +52,12 @@ body {
 
 .home-page header {
   background-image:
-    url("../image/frame1.svg"),
-    url("../image/frame2.svg"),
-    url("../image/frame3.svg"),
-    url("../image/frame4.svg"),
-    url("../image/frame5.svg"),
-    url("../image/back.svg");
+    url("image/frame1.svg"),
+    url("image/frame2.svg"),
+    url("image/frame3.svg"),
+    url("image/frame4.svg"),
+    url("image/frame5.svg"),
+    url("image/back.svg");
   background-position:
     100% 12%,
     100% 48%,
@@ -192,8 +192,8 @@ p {
 .about-me {
   display: grid;
   background-image:
-    url("../images/maskgroup2.svg"),
-    url("../images/maskgroup1.svg");
+    url("../image/maskgroup2.svg"),
+    url("../image/maskgroup1.svg");
   background-position:
     0 90%,
     100% 0;
@@ -386,7 +386,7 @@ h3 {
 }
 
 .language {
-  background-image: url("../images/Ellipse15.svg");
+  background-image: url("../image/Ellipse15.svg");
   background-position: 50% 20%;
   background-repeat: no-repeat;
   background-color: #ebf0ee;
@@ -394,7 +394,7 @@ h3 {
 }
 
 .skills {
-  background-image: url("../images/icon-skills.svg");
+  background-image: url("../image/icon-skills.svg");
   background-position: 50% 20%;
   background-repeat: no-repeat;
   background-color: #ebf0ee;
@@ -406,7 +406,7 @@ h3 {
 }
 
 .FrameWorks {
-  background-image: url("../images/icon-frameworks.svg");
+  background-image: url("../image/icon-frameworks.svg");
   background-position: 50% 20%;
   background-repeat: no-repeat;
   background-color: #ebf0ee;
@@ -429,7 +429,7 @@ h3 {
 footer {
   display: grid;
   justify-items: center;
-  background-image: url("../images/footer-image.svg");
+  background-image: url("../image/footer-image.svg");
   background-position: 100% 60%;
   background-repeat: no-repeat;
 }
