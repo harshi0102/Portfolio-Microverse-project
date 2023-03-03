@@ -110,6 +110,12 @@ VS Code
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind)
 
+👤 Muhammad Omer Afzal
+
+- GitHub: [@omer-creator](https://github.com/omer-creator/)
+- Twitter: [@Micronaut_omer](https://twitter.com/micronaut_omer)
+- LinkedIn: [OmerAfzal](https://www.linkedin.com/in/OmerAfzal)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
