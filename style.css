@@ -2,19 +2,6 @@ body {
   margin: 0;
 }
 
-#mobile-menu-container {
-  display: none;
-  width: 100vw;
-  height: 90%;
-  background-color: #fff;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-  position: absolute;
-  z-index: 999;
-  margin-top: -60px;
-  padding-top: 25px;
-}
-
 .close-icon {
   display: flex;
   justify-content: flex-end;
@@ -67,6 +54,19 @@ body {
     57% 0;
   background-repeat: no-repeat;
   height: 700px;
+}
+
+#mobile-menu-container {
+  display: none;
+  width: 100vw;
+  height: 90%;
+  background-color: #fff;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  position: absolute;
+  z-index: 999;
+  margin-top: -60px;
+  padding-top: 25px;
 }
 
 .slogan {
@@ -164,17 +164,6 @@ p {
   padding-top: 15px;
 }
 
-.title-project {
-  color: #3a4a42;
-  font-family: Inter, sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 30px;
-  line-height: 44px;
-  text-align: center;
-  padding-top: 15px;
-}
-
 .about-me {
   display: grid;
   background-image:
@@ -267,6 +256,17 @@ h3 {
   margin-right: 8px;
   margin-bottom: 0;
   margin-top: 0;
+}
+
+.title-project {
+  color: #3a4a42;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 44px;
+  text-align: center;
+  padding-top: 15px;
 }
 
 .buttons3 {
