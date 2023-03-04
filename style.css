@@ -178,8 +178,8 @@ p {
 .about-me {
   display: grid;
   background-image:
-    url("../image/maskgroup2.svg"),
-    url("../image/maskgroup1.svg");
+    url("image/maskgroup2.svg"),
+    url("image/maskgroup1.svg");
   background-position:
     0 90%,
     100% 0;
@@ -373,7 +373,7 @@ h3 {
 }
 
 .language {
-  background-image: url("../image/Ellipse15.svg");
+  background-image: url("image/Ellipse15.svg");
   background-position: 50% 20%;
   background-repeat: no-repeat;
   background-color: #ebf0ee;
@@ -381,7 +381,7 @@ h3 {
 }
 
 .skills {
-  background-image: url("../image/icon-skills.svg");
+  background-image: url("image/icon-skills.svg");
   background-position: 50% 20%;
   background-repeat: no-repeat;
   background-color: #ebf0ee;
@@ -393,7 +393,7 @@ h3 {
 }
 
 .FrameWorks {
-  background-image: url("../image/icon-frameworks.svg");
+  background-image: url("image/icon-frameworks.svg");
   background-position: 50% 20%;
   background-repeat: no-repeat;
   background-color: #ebf0ee;
@@ -416,7 +416,7 @@ h3 {
 footer {
   display: grid;
   justify-items: center;
-  background-image: url("../image/footer-image.svg");
+  background-image: url("image/footer-image.svg");
   background-position: 100% 60%;
   background-repeat: no-repeat;
 }
@@ -531,14 +531,14 @@ footer {
 
   .home-page header {
     background-image:
-      url("../image/Frame.svg"),
-      url("../image/Frame-1.svg"),
-      url("../image/Frame-2.svg"),
-      url("../image/Frame-3.svg"),
-      url("../image/Frame-4.svg"),
-      url("../image/Frame-5.svg"),
-      url("../image/Frame-6.svg"),
-      url("../image/desktop-back.svg");
+      url("image/Frame.svg"),
+      url("image/Frame-1.svg"),
+      url("image/Frame-2.svg"),
+      url("image/Frame-3.svg"),
+      url("image/Frame-4.svg"),
+      url("image/Frame-5.svg"),
+      url("image/Frame-6.svg"),
+      url("image/desktop-back.svg");
     background-position:
       0% 26%,
       77% 0%,
@@ -595,8 +595,8 @@ footer {
     flex-direction: column;
     align-items: center;
     background-image:
-      url("../image/frame-7.svg"),
-      url("../image/frame-8.svg");
+      url("image/frame-7.svg"),
+      url("image/frame-8.svg");
     background-position:
       0% 65%,
       100% -48%;
@@ -671,9 +671,9 @@ footer {
 
   footer {
     background-image:
-      url("../image/Frame-9.svg"),
-      url("../image/Frame-10.svg"),
-      url("../image/Frame-11.svg");
+      url("image/Frame-9.svg"),
+      url("image/Frame-10.svg"),
+      url("image/Frame-11.svg");
     background-position:
       28% 71%,
       0 81%,
