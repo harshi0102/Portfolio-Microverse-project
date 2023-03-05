@@ -6,7 +6,11 @@
   <h3><b>Portfolio Project Desktop Version</b></h3>
 
 </div>
-
+<div align="left">
+<h2>Demo link</h2>
+<hr>
+<a href="https://harshi0102.github.io/Portfolio-Microverse-project/">Click here to see Demo</a>
+</div>
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
