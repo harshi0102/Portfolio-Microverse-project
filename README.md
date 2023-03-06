@@ -4,6 +4,11 @@
 
   <h1><b>Harshika Govind</b></h1>
   <h3><b>Portfolio Project Desktop Version</b></h3>
+  </div>
+  <div align="left">
+<h2 ><b>Demo Link</h2></b>
+<hr>
+https://harshi0102.github.io/Portfolio-Microverse-project/
 
 </div>
 <div align="left">
@@ -60,7 +65,7 @@ The core concepts of HTML, CSS and github were implemented.Using HTML, I was abl
 
 ## 🚀 Live Demo
 
-- [Live Demo Link](https://github.com/harshi0102/Portfolio-Microverse-project)
+- [Live Demo Link](https://harshi0102.github.io/Portfolio-Microverse-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +87,8 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder using the below command:
+https://github.com/harshi0102/Portfolio-Microverse-project.git
 
 ### Usage
 

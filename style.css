@@ -86,7 +86,8 @@ h4.slogan {
 }
 
 #banner {
-  margin-top: 88px;
+  position: relative;
+  top: 10%;
 }
 
 #banner h4 {
