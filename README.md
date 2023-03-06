@@ -11,11 +11,7 @@
 https://harshi0102.github.io/Portfolio-Microverse-project/
 
 </div>
-<div align="left">
-<h2>Demo link</h2>
-<hr>
-<a href="https://harshi0102.github.io/Portfolio-Microverse-project/">Click here to see Demo</a>
-</div>
+
 <br><br>
 # 📗 Table of Contents
 
