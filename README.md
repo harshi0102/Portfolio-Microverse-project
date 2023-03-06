@@ -121,6 +121,12 @@ VS Code
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind)
 
+👤 Qusai Issa
+
+- GitHub: [@qusai122](https://github.com/qusai122)
+- Twitter: [@harshika0102me](https://twitter.com/qusai123issa)
+- LinkedIn: [Qusai Issa](https://www.linkedin.com/in/qusai-issa-ab5a59156/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
