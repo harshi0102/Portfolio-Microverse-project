@@ -11,6 +11,11 @@
 https://harshi0102.github.io/Portfolio-Microverse-project/
 
 </div>
+<div align="left">
+<h2><b>Loom Link</h2>
+<hr>
+https://www.loom.com/share/339660a0f95f464483698f656970777f
+</div>
 
 <br><br>
 # 📗 Table of Contents
