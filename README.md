@@ -118,6 +118,13 @@ VS Code
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind)
 
+👤 Faisal
+
+- GitHub: [@githubhandle](https://github.com/faisalakb)
+- Twitter: [@twitterhandle](https://twitter.com/Faisalakb786)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/faisal-mumtaz-514a221a6/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
