@@ -311,7 +311,7 @@ h3 {
 }
 
 #mobile-menu-container #mylink .mobileiconslinks .mobileicons {
-font-family: 'Inter';
+font-family: 'Inter',sans-serif;
 font-style:normal;
 font-size: 32px;
 line-height: 54px;
