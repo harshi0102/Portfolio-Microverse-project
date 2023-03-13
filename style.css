@@ -309,10 +309,12 @@ h3 {
   text-align: left;
   display: flex;
 }
-#mylink{
-  padding-left: 0px;
+
+#mylink {
+  padding-left: 0;
   margin-left: 28px;
 }
+
 #mobile-menu-container #mylink .mobileiconslinks .mobileicons {
   font-family: 'Inter', sans-serif;
   font-style: normal;
