@@ -313,6 +313,7 @@ h3 {
 #mylink {
   padding-left: 0;
   margin-left: 28px;
+  gap: 8px;
 }
 
 #mobile-menu-container #mylink .mobileiconslinks .mobileicons {
