@@ -22,7 +22,7 @@ const projects = [
   {
     id: 1,
     title: 'Multi-Post Stories Gain+Glory',
-    img: 'image/placeholder-image.png',
+    img: 'assets/images/placeholder-image.png',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     liveLink: 'https://harshi0102.github.io/Portfolio-Microverse-project/',
     github: 'https://github.com/harshi0102/Portfolio-Microverse-project',
@@ -33,7 +33,7 @@ const projects = [
   {
     id: 2,
     title: 'Multi-Post Stories Gain+Glory',
-    img: 'image/placeholder-image.png',
+    img: 'assets/images/placeholder-image.png',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     liveLink: 'https://harshi0102.github.io/Portfolio-Microverse-project/',
     github: 'https://github.com/harshi0102/Portfolio-Microverse-project',
@@ -44,7 +44,7 @@ const projects = [
   {
     id: 3,
     title: 'Multi-Post Stories Gain+Glory',
-    img: 'image/placeholder-image.png',
+    img: 'assets/images/placeholder-image.png',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     liveLink: 'https://harshi0102.github.io/Portfolio-Microverse-project/',
     github: 'https://github.com/harshi0102/Portfolio-Microverse-project',
@@ -55,7 +55,7 @@ const projects = [
   {
     id: 4,
     title: 'Multi-Post Stories Gain+Glory',
-    img: 'image/placeholder-image.png',
+    img: 'assets/images/placeholder-image.png',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     liveLink: 'https://harshi0102.github.io/Portfolio-Microverse-project/',
     github: 'https://github.com/harshi0102/Portfolio-Microverse-project',
@@ -66,7 +66,7 @@ const projects = [
   {
     id: 4,
     title: 'Multi-Post Stories Gain+Glory',
-    img: 'image/placeholder-image.png',
+    img: 'assets/images/placeholder-image.png',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     liveLink: 'https://harshi0102.github.io/Portfolio-Microverse-project/',
     github: 'https://github.com/harshi0102/Portfolio-Microverse-project',
@@ -77,7 +77,7 @@ const projects = [
   {
     id: 4,
     title: 'Multi-Post Stories Gain+Glory',
-    img: 'image/placeholder-image.png',
+    img: 'assets/images/placeholder-image.png',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
     liveLink: 'https://harshi0102.github.io/Portfolio-Microverse-project/',
     github: 'https://github.com/harshi0102/Portfolio-Microverse-project',
@@ -115,8 +115,8 @@ function openModal(i) {
   <div class="modal-content">
                     <span id="close" class="close" onclick="closeModal(${i})">&times;</span>
 
-                    <div class="modal-img img-desktop"><img src="image/modal-banner.svg" alt="project 1"></div>
-                    <div class="modal-img img-mobile"><img src="image/mobile-banner.svg" alt="project 1"></div>
+                    <div class="modal-img img-desktop"><img src="assets/images/modal-banner.svg" alt="project 1"></div>
+                    <div class="modal-img img-mobile"><img src="assets/images/mobile-banner.svg" alt="project 1"></div>
                     <div class="row modal-header" id="modalHead">
                         <div class="modal-title-container"><h3 class=" modal-title">${projects[i].title}</h3></div>
                         <div class="desk-btns">
