@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1><b>Harshika Govind</b></h1>
-  <h3><b>Portfolio Project Desktop Version</b></h3>
+  <h3><b>Portfolio Project</b></h3>
   </div>
   <div align="left">
 <h2 ><b>Demo Link</h2></b>
