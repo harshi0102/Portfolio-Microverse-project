@@ -310,11 +310,21 @@ h3 {
   display: flex;
 }
 
-#mobile-menu-container ul li a {
-  font-family: Inter, sans-serif;
+#mylink {
+  padding-left: 0;
+  margin-left: 28px;
+  gap: 8px;
+}
+
+#mobile-menu-container #mylink .mobileiconslinks .mobileicons {
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 32px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+  color: #3a4a42;
 }
 
 .see-project {
