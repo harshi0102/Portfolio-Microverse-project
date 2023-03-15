@@ -11,7 +11,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-  <script src="index.js"></script>
 </head>
 
 <body id="body">
@@ -163,7 +162,7 @@
         I'm always interested in hearing about new projects, so if you'd like
         to chat please get in touch.
       </h2>
-      <form action="https://formspree.io/f/xqkoqrpz" method="POST" class="contact-form" id="form">
+      <form action="https://formspree.io/f/xqkoqrpz" method="POST" class="contact-form" id="form-validate">
         <div>
           <div class="full__name">
             <input type="text" name="name" id="full-name" size="40" maxlength="30" placeholder="Full Name" required />
@@ -173,6 +172,9 @@
           </div>
           <textarea class="contact-description" name="description" id="description" rows="3" cols="41" maxlength="500"
             placeholder="Enter text here" required></textarea>
+            <div >
+              <span class="error-msg" id="error-msg"></span>
+            </div>
           <div class="submit-button-container">
             <button class="submit-button" type="submit">Get in touch</button>
           </div>
@@ -202,6 +204,8 @@
       <a class="footer__email" href="mailto:harshika0102@gmail.com">harshika0102@gmail.com</a>
     </div>
   </footer>
+  <script src="index.js"></script>
+
 </body>
 
 </html>
