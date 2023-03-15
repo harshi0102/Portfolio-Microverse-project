@@ -164,3 +164,22 @@ window.onclick = function (event) {
     document.getElementById('modal-container').innerHTML +='';
   }
 };
+
+
+window.onload=function(){
+  document.getElementById('form-validate').addEventListener('submit', (e) => {
+    const emailValue = document.getElementById('email').value;
+    const emailError = document.getElementById('error-msg');
+    const validate = emailValue.toLowerCase();
+    if (emailValue === validate) {
+      emailError.textContent = '';
+      // emptying the local storage
+      localStorage.removeItem('formData');
+    } else {
+      e.preventDefault();
+      emailError.textContent = 'Email should be typed in lowercase';
+    }
+    
+  });
+  }
+
