@@ -79,7 +79,7 @@ const projects = [
     title: 'Multi-Post Stories Gain+Glory',
     img: 'assets/images/placeholder-image.png',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
-    liveLink: 'https://harshi0102.github.io/Portfolio-Microverse-project/',
+   liveLink: 'https://harshi0102.github.io/Portfolio-Microverse-project/',
     github: 'https://github.com/harshi0102/Portfolio-Microverse-project',
     techstack: ['Ruby on rails', 'CSS', 'JavaScript', 'HTML'],
     modal_techstack_desktop: ['Codekit','Github','Javascript','Bootstrap','Terminal','Codepen'],
