@@ -80,6 +80,7 @@ In order to run this project you need:
     <li>github account</li>
     <li>Text Editor</li>
     <li>Web Browser</li>
+    <li>Linters config</li>
 </ul>
 
 ### Setup
@@ -91,7 +92,7 @@ https://github.com/harshi0102/Portfolio-Microverse-project.git
 
 To run the project, execute the following file:
 
-index.html and open the file in desktop view.
+index.html and open the file in desktop and mobile view.
 ### Run tests
 
 To run tests, run the following command:
@@ -107,6 +108,7 @@ You can deploy this project using:
 
 github
 VS Code
+or Pycharm
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
