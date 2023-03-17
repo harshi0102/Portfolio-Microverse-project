@@ -12,7 +12,7 @@ function menuFunction() {
   /* eslint-disable */
   function menuOptions(param) {
     window.location.href = param;
-    const links = document.getElementById('mobile-menu-container');
+    const links = document.getElementById('#mobile-menu-container');
     links.style.display = 'none';
   }
   
