@@ -18,7 +18,15 @@
   },
   "homepage": "https://github.com/harshi0102/Portfolio-Microverse-project#readme",
   "devDependencies": {
+<<<<<<< HEAD
     "hint": "^7.1.8",
+=======
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.27.5",
+    "hint": "^7.1.3",
+>>>>>>> 9832a147775e02fa49d2588231964fc552b5b1ab
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
