@@ -11,9 +11,14 @@
 https://harshi0102.github.io/Portfolio-Microverse-project/
 
 </div>
+<div align="center">
+-Desktop Version
+<img src="Screenshot_2.jpg" alt="Desktopversion" width="650" height="auto">
+<br />
+-Mobile Version
+<img src="mobile.jpg" alt="mobile-version" width="650" height="auto">
 
-
-<br><br>
+<br />
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -119,13 +124,6 @@ or Pycharm
 - GitHub: [@harshi0102](https://github.com/harshi0102/)
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind)
-
-👤 Faisal
-
-- GitHub: [@githubhandle](https://github.com/faisalakb)
-- Twitter: [@twitterhandle](https://twitter.com/Faisalakb786)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/faisal-mumtaz-514a221a6/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
