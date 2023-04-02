@@ -15,10 +15,12 @@ https://harshi0102.github.io/Portfolio-Microverse-project/
 -Desktop Version
 <img src="Screenshot_2.jpg" alt="Desktopversion" width="650" height="auto">
 <br />
+<br><br>
 -Mobile Version
 <img src="mobile.jpg" alt="mobile-version" width="650" height="auto">
-
+</div>
 <br />
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
