@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1><b>Harshika Govind</b></h1>
-  <h3><b>Portfolio Project Desktop Version</b></h3>
+  <h3><b>Portfolio Project</b></h3>
   </div>
   <div align="left">
 <h2 ><b>Demo Link</h2></b>
@@ -11,12 +11,15 @@
 https://harshi0102.github.io/Portfolio-Microverse-project/
 
 </div>
-<div align="left">
-<h2>Demo link</h2>
-<hr>
-<a href="https://harshi0102.github.io/Portfolio-Microverse-project/">Click here to see Demo</a>
-</div>
+DesktopVersion and Mobile Version
+<div align="center">
+<img src="Screenshot_2.jpg" alt="Desktopversion" width="650" height="auto">
+<br />
 <br><br>
+<img src="mobile.jpg" alt="mobile-version" width="400" height="auto">
+</div>
+<br />
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -83,6 +86,7 @@ In order to run this project you need:
     <li>github account</li>
     <li>Text Editor</li>
     <li>Web Browser</li>
+    <li>Linters config</li>
 </ul>
 
 ### Setup
@@ -94,7 +98,7 @@ https://github.com/harshi0102/Portfolio-Microverse-project.git
 
 To run the project, execute the following file:
 
-index.html and open the file in desktop view.
+index.html and open the file in desktop and mobile view.
 ### Run tests
 
 To run tests, run the following command:
@@ -110,6 +114,7 @@ You can deploy this project using:
 
 github
 VS Code
+or Pycharm
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
