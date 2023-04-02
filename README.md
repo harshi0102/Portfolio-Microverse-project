@@ -11,13 +11,11 @@
 https://harshi0102.github.io/Portfolio-Microverse-project/
 
 </div>
+DesktopVersion and Mobile Version
 <div align="center">
--Desktop Version
 <img src="Screenshot_2.jpg" alt="Desktopversion" width="650" height="auto">
 <br />
-
-
--Mobile Version
+<br><br>
 <img src="mobile.jpg" alt="mobile-version" width="400" height="auto">
 </div>
 <br />
